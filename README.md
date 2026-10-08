@@ -190,6 +190,7 @@
   <code>Deep Learning Architectures</code><br />
   <code>Backend for AI Applications</code>&nbsp;
   <code>Research-Oriented AI Workflows</code>
+  <code>Graduation Project</code>&nbsp;
 </p>
 
 <br />
